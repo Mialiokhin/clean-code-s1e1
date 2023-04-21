@@ -55,11 +55,13 @@
   padding: 0px;
 }
 
-.list__item, .title-todo {
+.list__item,
+.title-todo {
   list-style: none;
 }
 
-input, .btn-todo {
+input,
+.btn-todo {
   outline: none;
 }
 
